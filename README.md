@@ -3,6 +3,8 @@
 Essa tradução foi criada a partir do conteúdo disponibilizado neste repositório:
 https://github.com/Leomhl/laravel-5.4-pt-br-localization
 
+As mensagens deste pacote foram modificadas para tornar-se mais educadas, afinal, muitos clientes não aprovam mensagens "curtas e grossas". 
+
 ## Instalação
 
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
